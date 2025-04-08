@@ -4,7 +4,7 @@
              x:Class="LuckyNumberApp.MainPage"
              BackgroundColor="White">
     <ScrollView HorizontalOptions="Center" VerticalOptions="Center">
-        <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+        <VerticalStackLayout>
             <Image 
                 Source="logo_green.png" 
                 WidthRequest="74"
